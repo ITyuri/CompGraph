@@ -8,3 +8,13 @@ C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\computer_gra
 C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\computer_graphics\lab1\lab1\obj\Debug\lab1.exe
 C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\computer_graphics\lab1\lab1\obj\Debug\lab1.pdb
 C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\computer_graphics\lab1\lab1\obj\Debug\Lab-1.csprojResolveAssemblyReference.cache
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\Lab-1.csprojResolveAssemblyReference.cache
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\Lab_1.Form1.resources
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\Lab-1.csproj.GenerateResource.cache
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Yura\Desktop\SFEDU\Компьютерная_графика\CompGraph\lab1\lab1\obj\Debug\lab1.pdb
